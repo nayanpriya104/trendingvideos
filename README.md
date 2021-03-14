@@ -23,8 +23,9 @@ To run this project, locally:
 
 ```
 Download and install xampp
+Create "YoutubeApp" folder inside htdocs folder of xampp
 Download the project 
-Save it inside the htdocs folder of xampp
+Extract it inside the 'xampp/htdocs/YoutubeApp'
 Create database 'youtubeapp' using phpmyadmin
 import the youtubeapp.sql file inside the database
 browser hit the url http://localhost/YoutubeApp/
